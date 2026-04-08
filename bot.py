@@ -2,7 +2,7 @@ from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import ApplicationBuilder, CommandHandler, CallbackQueryHandler, ContextTypes
 import json, time, os
 
-BOT_TOKEN = os.getenv("8756023029:AAHHo1xChulcMtKa0FSQ8paK7KbpG9i4Nds")
+BOT_TOKEN = os.getenv("8756023029:AAFyJolQVNcz6X84rhh-ffyHj7CK-X4drkM")
 ADMIN_ID = 5924662015
 
 DB = "data.json"
