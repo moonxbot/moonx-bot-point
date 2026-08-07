@@ -1,1 +1,1 @@
-# moonx-bot-point
+gh repo clone moonxbot/moonx-bot-point# moonx-bot-point
